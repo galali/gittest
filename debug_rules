@@ -6,3 +6,4 @@ debug rules
 - hello
 - use logcat & cat /proc/kmsg
 - hello2
+- use memdump
