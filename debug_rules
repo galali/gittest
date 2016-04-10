@@ -3,4 +3,5 @@ debug rules
 
 - use debug tool to trace
 - add trace in code, e.g. printk
+- hello
 - use logcat & cat /proc/kmsg
