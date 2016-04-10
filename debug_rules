@@ -5,3 +5,4 @@ debug rules
 - add trace in code, e.g. printk
 - hello
 - use logcat & cat /proc/kmsg
+- hello2
